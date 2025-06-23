@@ -48,7 +48,8 @@ See [INSTALL.md](INSTALL.md) for instructions on building and running the applic
 The SQL dump file containing all "Software Engineering" jobs is available in `dump.sql`.
 
 You can also download it from Google Drive:  
-📎 [Download link here]
+(https://drive.google.com/file/d/1p6DOMO2v8xTQ7DrX0M7RHP4gfJoFe41J/view?usp=share_link)
+
 
 ## 🧼 Code Practices
 
